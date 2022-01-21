@@ -1,0 +1,28 @@
+{
+  "name": "zerone-admin-expressjs",
+  "version": "1.0.0",
+  "description": "Zerone Admin (Node.js, Express.js, PostgreSQL, Sequelize ORM) - Web Service API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdanzamzam/zerone-admin-expressjs.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "postgresql",
+    "sequelize",
+    "api",
+    "admin"
+  ],
+  "author": "abdanzamzam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdanzamzam/zerone-admin-expressjs/issues"
+  },
+  "homepage": "https://github.com/abdanzamzam/zerone-admin-expressjs#readme"
+}
