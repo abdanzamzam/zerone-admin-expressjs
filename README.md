@@ -1,2 +1,3 @@
-# REST-API-with-node.js-and-elasticsearch
-REST API with node.js and elasticsearch
+# Zerone Admin - Express.js
+
+Zerone Admin (Node.js, Express.js, PostgreSQL, Sequelize ORM) Service API
